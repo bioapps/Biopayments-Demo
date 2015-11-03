@@ -1,2 +1,2 @@
-# Demo_1
-First demo Biohacking workshop
+# Biopayments Demo
+Demo Biohacking workshop
